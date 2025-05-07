@@ -1,2 +1,2 @@
-import{p as a,b as r}from"./p-f063a8d7.js";export{s as setNonce}from"./p-f063a8d7.js";import{g as t}from"./p-e1255160.js";var p=()=>{const r=import.meta.url;const s={};if(r!==""){s.resourcesUrl=new URL(".",r).href}return a(s)};p().then((async a=>{await t();return r([["p-b46f531b",[[1,"neppo-chat",{parameters:[1]}]]]],a)}));
+import{p as e,b as t}from"./p-2e6d5014.js";export{s as setNonce}from"./p-2e6d5014.js";import{g as r}from"./p-e1255160.js";var a=()=>{const s=import.meta.url;const t={};if(s!==""){t.resourcesUrl=new URL(".",s).href}return e(t)};a().then((async e=>{await r();return t([["p-4b69cb87",[[1,"neppo-chat",{parameters:[1],isDragging:[32],isWidgetOpen:[32],widgetPosition:[32]}]]]],e)}));
 //# sourceMappingURL=neppo-chat.esm.js.map
